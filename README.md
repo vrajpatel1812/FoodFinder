@@ -11,8 +11,13 @@ Whether you're a food enthusiast, a curious chef, or simply seeking to expand yo
 Key Features of DishDetective:
 
 Instant dish recognition: Capture an image and let DishDetective identify the dish within seconds.
+
 Comprehensive ingredient analysis: Uncover the list of ingredients that compose each dish, from essential elements to intricate details.
+
 User-friendly interface: Seamlessly navigate through the app's intuitive design for a delightful user experience.
+
 Personalization options: Customize your preferences, save favorite dishes, and create personalized collections.
+
 Discover and explore: Access a vast database of dishes, cuisines, and recipes from around the world, expanding your culinary knowledge.
+
 Download DishDetective today and embark on an exciting journey through the world of flavors, discovering the names and ingredients behind every mouthwatering dish. Let your taste buds rejoice as you become an expert DishDetective!
